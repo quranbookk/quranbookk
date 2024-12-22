@@ -1,6 +1,6 @@
 # QuranBookk 📖 
 
-![QuranBookk Logo](https://www.quranbookk.com/apple-touch-icon.png)
+[![QuranBookk Logo](https://www.quranbookk.com/apple-touch-icon.png)](https://www.quranbookk.com/)
 
 A modern, comprehensive platform for exploring and studying the Holy Quran online. QuranBookk provides verse-by-verse audio recitation, multiple translations, and advanced search capabilities.
 
