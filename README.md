@@ -1,4 +1,4 @@
-# 🌙 QuranBookk.com – The Ultimate Digital Islam and Quran Platform
+# 🌙 QuranBookk.com – The unified Islamic Platform
 
 [![QuranBookk Logo](https://www.quranbookk.com/apple-touch-icon.png)](https://www.quranbookk.com/)
 
