@@ -44,18 +44,17 @@ QuranBookk.com offers a **powerful suite of Quranic tools and Islamic content** 
 #### ✨ Also From QuranBookk Team:
 
 - ⚡ **[Internet Speed Test](https://www.farhan7reza.com/internet-speed-test)** – Test your internet speed for free! Check download, upload speeds & ping instantly
-- 🎮 **[AI TicTacToe Game](https://www.farhan7reza.com/tic-tac-toe-game)** – Play online with smart AI bots or challenge your friends
-- 📅 **[Menstrual Cycle Tracker](https://www.farhan7reza.com/menstrual-cycle-tracker)** – Free period tracker & ovulation calculator with menstrual cycle calendar
-- 💖 **[Fertility Tracker](https://www.farhan7reza.com/fertility-tracker)** – Track your ovulation & fertile window for free online
-- 👶 **[Pregnancy Due Date Finder](https://www.farhan7reza.com/pregnancy-due-date-finder)** – Calculate your baby's due date & pregnancy week instantly
-- 💕 **[Love Compatibility Finder](https://www.farhan7reza.com/love-compatibility-finder)** – Free relationship match test to check love compatibility
-- 🍀 **[Daily Luck Finder](https://www.farhan7reza.com/luck-finder)** – Discover your daily luck score with free numerology calculator
-- ⭐ **[Zodiac Sign Finder](https://www.farhan7reza.com/zodiac-sign-finder)** – Find your Rashi & horoscope sign by birth date
+- 🎮 **[AI TicTacToe Game](https://www.farhan7reza.com/tic-tac-toe-game)** – Play online with smart AI bots or challenge your friends 
 - 🎂 **[Age Calculator](https://www.farhan7reza.com/age-finder)** – Calculate your exact age in years, months & days online
 - 📊 **[Date Analyzer](https://www.farhan7reza.com/date-analyzer)** – Free astrology & numerology date analysis online
 - ⏳ **[Dates Duration Calculator](https://www.farhan7reza.com/dates-difference-calculator)** – Calculate days, months & years between two dates
 
-  
+<!-- - 📅 **[Menstrual Cycle Tracker](https://www.farhan7reza.com/menstrual-cycle-tracker)** – Free period tracker & ovulation calculator with menstrual cycle calendar
+- 💖 **[Fertility Tracker](https://www.farhan7reza.com/fertility-tracker)** – Track your ovulation & fertile window for free online
+- 👶 **[Pregnancy Due Date Finder](https://www.farhan7reza.com/pregnancy-due-date-finder)** – Calculate your baby's due date & pregnancy week instantly
+- 💕 **[Love Compatibility Finder](https://www.farhan7reza.com/love-compatibility-finder)** – Free relationship match test to check love compatibility
+- 🍀 **[Daily Luck Finder](https://www.farhan7reza.com/luck-finder)** – Discover your daily luck score with free numerology calculator
+- ⭐ **[Zodiac Sign Finder](https://www.farhan7reza.com/zodiac-sign-finder)** – Find your Rashi & horoscope sign by birth date -->
 ---
 
 ## 🔧 Tech Stack & Highlights
